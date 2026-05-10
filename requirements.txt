@@ -1,6 +1,5 @@
-fastapi
-uvicorn
-python-dotenv
-openai
-apscheduler
+flask
+gunicorn
 line-bot-sdk
+python-dotenv
+requests
