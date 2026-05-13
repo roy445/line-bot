@@ -1,0 +1,7 @@
+flask
+gunicorn
+line-bot-sdk
+psycopg2-binary
+python-dotenv
+requests
+SQLAlchemy
